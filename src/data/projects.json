@@ -1,26 +1,19 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "Wordpress eccomerce",
+    "imageSrc": "projects/Project4.png",
+    "description": "This is a project made by using Wordpress.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "https://webcom966.wordpress.com/",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "React portfolio",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a portfolio project made using react.",
     "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://muhami.netlify.app/",
+    "source": "https://github.com/DennisMuhami/Portfolio"
   }
+  
 ]
